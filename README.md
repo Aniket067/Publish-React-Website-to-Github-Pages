@@ -45,7 +45,7 @@ Configure the base property to match your GitHub repository name.:
       });
 
    ```
-3. #### Update vite.config.js:
+3. #### Update  package.json:
 
 Add deployment scripts-deploy and predeploy to package.json:
    ```bash
